@@ -1,0 +1,14 @@
+{
+  "React skeleton": {
+    "scope": "typescript,typescriptreact",
+    "prefix": "rr",
+    "body": [
+      "type $1Props = {",
+      "\tchildren: React.ReactNode",
+      "}\n",
+      "const $1 = (props: $1Props) => <$2>$3</$2>\n",
+      "export default $1"
+    ],
+    "description": "React skeleton"
+  }
+}
